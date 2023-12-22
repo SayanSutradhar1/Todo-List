@@ -1,0 +1,11 @@
+html , body{
+    background-color: #b1d1e4;
+    min-width: 240px;
+    height: 100vh;
+    /* overflow: scroll; */
+}
+
+body{
+    overflow-y: auto;
+}
+
